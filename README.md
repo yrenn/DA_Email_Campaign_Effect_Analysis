@@ -1,4 +1,4 @@
-# email_campaign
+# DA_Email_Campaign_Effect_Analysis
 
 The case analyses the different impacts of email campaigns. Firstly, we divide customers into a control group and a target group and send Email campaigns to different groups. Through the analysis of the following parameters using SQL, get the best Email campaign. The parameters are as follows:
 
